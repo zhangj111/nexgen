@@ -10,7 +10,9 @@ Exception handling is an important built-in feature of many modern programming l
 * javalang 0.11.0
 
 ## Dataset
-Please refer to https://drive.google.com/drive/folders/1tdg2DtvdqY8338g2pTzLQxnUd95nIU2S?usp=sharing for the datasets of the two tasks,  download and unzip them in the corresponding directories. 
+[Updated] The raw data and scripts corresponding to the two tasks were added. 
+Please extract it from the raw_data.tar.gz and run the scripts accordingly to get the experimental data.
+
 
 ## Task1: Try block localization
 1. Unzip the data file "task1_data.tar.gz" into task1/data;
